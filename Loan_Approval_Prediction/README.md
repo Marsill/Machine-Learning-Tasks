@@ -99,7 +99,7 @@ The dataset includes features such as:
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/loan_approval_prediction_model_comparison.png)
 
 ## Conclusion
 
